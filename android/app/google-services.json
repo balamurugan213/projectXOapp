@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "663740497823",
+    "firebase_url": "https://protectxodb.firebaseio.com",
+    "project_id": "protectxodb",
+    "storage_bucket": "protectxodb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:663740497823:android:e745cd57b0f97478bac7aa",
+        "android_client_info": {
+          "package_name": "com.ex.project_XO"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "663740497823-p0coch4016pve0pqe6chve7rtdjk1ubs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBLtJzhLINhfU9uqJm0m2dqrkOh4Vu0w4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "663740497823-p0coch4016pve0pqe6chve7rtdjk1ubs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
